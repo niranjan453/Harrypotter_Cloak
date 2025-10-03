@@ -32,12 +32,6 @@ Install dependencies:
 
 pip install opencv-python numpy
 
-🚀 Usage
-
-Clone the repository:
-
-git clone https://github.com/crazyluhsnap/HarryPotterCloak.git
-
 
 Run the script:
 
